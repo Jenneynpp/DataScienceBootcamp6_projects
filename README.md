@@ -1,6 +1,6 @@
 # Data Science Bootcamp Projects
 
-Data science bootcamp batch 06 with [DataRockies](https://datarockie.com/)
+Data science bootcamp batch 06 with [@DataRockies](https://datarockie.com/)
 
 We learn 10 sprints during 6 month program.
 
