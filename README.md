@@ -6,7 +6,7 @@ We learn 10 sprints during 6 month program.
 
 1. Spreadsheet
 2. SQL database
-   - Restaurant Databases [Replit](https://replit.com/@NppEllermann/SQLhomeworkbatch6).   
+   - [Restaurant Databases Replit](https://replit.com/@NppEllermann/SQLhomeworkbatch6)   
 3. R Progrmming
 4. Data Transformation
 5. Data Visualization
