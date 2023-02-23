@@ -15,4 +15,5 @@ We learn 10 sprints during 6 month program.
 7. Intro to 'Classical' Machine Learning
 8. Intro to Python
 9. Essential Python for Data Analyst
+   - [Web Scraping : Bundesliga Stats 2022-2023, Youth Literature NaiIn](https://datalore.jetbrains.com/notebook/slgMVKs4RcG9biTOqchqsv/b1V1GRSchgSPVVM4Cp4kV3/) ...
 10. Dashboard
