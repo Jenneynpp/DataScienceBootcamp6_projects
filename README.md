@@ -11,6 +11,7 @@ We learn 10 sprints during 6 month program.
    - [Pao Ying Chub Replit](https://replit.com/@NppEllermann/Batch06PaoYingChub)
 4. Data Transformation
 5. Data Visualization
+   - [Data Visualization in R - Diamonds](https://github.com/Jenneynpp/DataScienceBootcamp6_projects/blob/main/Batch%2006%20-%20Data%20Visualization%20Diamonds%20%E2%80%93%20Posit.pdf) 
 6. Statistics
 7. Intro to 'Classical' Machine Learning
 8. Intro to Python
