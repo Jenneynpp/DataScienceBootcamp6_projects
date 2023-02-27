@@ -6,9 +6,9 @@ We learn 10 sprints during 6 month program.
 
 1. Spreadsheet
 2. SQL database
-   - [Restaurant Databases Replit](https://replit.com/@NppEllermann/SQLhomeworkbatch6)   
+   - [Restaurant Databases](https://replit.com/@NppEllermann/SQLhomeworkbatch6)   
 3. R Progrmming
-   - [Pao Ying Chub Replit](https://replit.com/@NppEllermann/Batch06PaoYingChub) - R
+   - [Pao Ying Chub](https://replit.com/@NppEllermann/Batch06PaoYingChub) - R
    - Chatbot Pizza
 4. Data Transformation
    - NYCflights13
